@@ -1,3 +1,5 @@
+<p align="center"><img src="https://just-did.github.io/assets/did.png" width="96" alt="just-did logo"></p>
+
 # just-did · 刚刚做了什么
 
 极简跨端个人日报记录工具：随手记下「刚刚做了什么」，桌面端与手机端协同。
