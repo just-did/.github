@@ -12,7 +12,7 @@
 
 | 项目 | 平台 | 技术栈 | 定位 | 最新版本 |
 | --- | --- | --- | --- | --- |
-| 🖥️ [just-did-desktop](https://github.com/just-did/just-did-desktop) | 电脑端 | Qt6 / C++ | 本地记录 + 局域网 HTTP 同步服务 | [v1.0.0](https://github.com/just-did/just-did-desktop/releases/tag/v1.0.0) |
+| 🖥️ [just-did-desktop](https://github.com/just-did/just-did-desktop) | 电脑端 | Qt6 / C++ | 本地记录 + 局域网 HTTP 同步服务 | [v1.1.0](https://github.com/just-did/just-did-desktop/releases/tag/v1.1.0) |
 | 📱 [just-did-app](https://github.com/just-did/just-did-app) | 手机端 | Kotlin / Jetpack Compose | 随手记录 + 扫码推送电脑端 | [v1.0.0](https://github.com/just-did/just-did-app/releases/tag/v1.0.0) |
 
 🌐 门户网站：[just-did.github.io](https://just-did.github.io/)
